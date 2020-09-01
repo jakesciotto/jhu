@@ -12,9 +12,7 @@ in `util.py`. Analysis document is under `docs` folder.
 	util.py
 	ttt.py
 	checkWin.py  
-	/docs  
-		SciottoPA2.pdf
-	/img  
+	SciottoPA2.pdf  
 	/output  
 		output.txt  
 	README.md
