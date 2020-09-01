@@ -13,10 +13,8 @@ in `util.py`. Analysis document is under `docs` folder.
 #### Directory Structure
 
 	iris.py  
-	util.py  
-	/docs  
-		SciottoPA1.pdf
-	/img  
+	util.py   
+	SciottoPA1.pdf  
 	/output  
 		output.txt  
 	README.md
